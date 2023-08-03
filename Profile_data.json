@@ -23,7 +23,8 @@
 		"clientFeedBack": "satisfied clients",
 		"workingHrs": "35500+",
 		"workingfHrText": "working hours",
-		"appCounts": "33+"
+		"appCounts": "33+",
+		"applicationText": "Applications"
 	},
 	"content": {
 		"title": "Hi, I’m Kumar Shan. <span>Nice to meet you.</span>",
