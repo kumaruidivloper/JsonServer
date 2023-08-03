@@ -31,7 +31,7 @@
 		"intro": "15+ years of experience in website development. Expertise in engineering robust and user-centric solutions to drive breakthrough efficiency and enhance the overall client experience. Proficient in guiding teams in a variety of environments and executing mission-critical projects. For the last 15 years I have dedicated my life to building the best developments on the web. I am very good at making them powerful, user-centric and able to offer you efficiency that improves your experience. I have gained a lot of experience during this time and I can help bring out creativity in all kinds of environments as well.",
 		"contectText": "contact me",
 		"hi": "Hi, I’m Kumar Shan.",
-		"nice": "Nice to meet you.",
+		"nice": "Nice to meet you."
 	},
 	"technology": {
 		"technology": ["angular", "react", "rxjs", "ngrx & ngxs", "git", "photoshop", "HTML", "CSS", "javascript", "typescript", "pyscript", "redux"],
