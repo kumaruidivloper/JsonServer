@@ -5,7 +5,8 @@
 		"menuTitle": "front-end developer",
 		"profilePath": "assets/cv/Kumaravel_Shanmugam_Web_Developer.pdf",
 		"gitUrl": "https://github.com/kumaruidivloper",
-		"linkedIn": "https://www.linkedin.com/in/kumar-shan-85933624/"
+		"linkedIn": "https://www.linkedin.com/in/kumar-shan-85933624/",
+		"userImage": "assets/img/user-img.jpg"
 	}],
 	"themeMode": [{
 		"dark": "Change Dark Mode",
