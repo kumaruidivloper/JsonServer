@@ -36,5 +36,45 @@
   },
   "proud": {
     "title": "I'm proud to have collaborated with some awesome  <span>companies</span>",
+  },
+  "companyDeatils": {
+    "companies": [
+       {
+          "name": "Dart Innovation & Technologies Pvt Ltd",
+          "duration": "<b>From:</b><span>&nbsp;25-05-2007</span> &nbsp; &nbsp; <b>To:</b><span>&nbsp;30-04-2010</span>"
+      },
+      {
+        "name": "Xentaqsys Technologies",
+        "duration": "<b>From:</b><span>&nbsp;11-05-2010</span> &nbsp; &nbsp; <b>To:</b><span>&nbsp;30-08-2010</span>",
+      },
+      {
+        "name": "Schindlers Management Services Pvt Ltd",
+        "duration": "<b>From:</b><span>&nbsp;17-11-2010</span> &nbsp; &nbsp; <b>To:</b><span>&nbsp;07-03-2011</span>",
+      },
+      {
+        "name": "Cognizant Technology and Solution India Pvt Ltd",
+        "duration": "<b>From:</b><span>&nbsp;09-03-2011</span> &nbsp; &nbsp; <b>To:</b><span>&nbsp;21-07-2017</span>",
+      },
+      {
+        "name": "Volvo Group India Pvt Ltd",
+        "duration": "<b>From:</b><span>&nbsp;27-07-2017</span> &nbsp; &nbsp; <b>To:</b><span>&nbsp;30-11-2018</span>",
+      },
+      {
+        "name": "MindTree Ltd",
+        "duration": "<b>From:</b><span>&nbsp;06-12-2018</span> &nbsp; &nbsp; <b>To:</b><span>&nbsp;31-07-2019</span>",
+      },
+      {
+        "name": "Boeing India Services Pvt Ltd",
+        "duration": "<b>From:</b><span>&nbsp;13-08-2019</span> &nbsp; &nbsp; <b>To:</b><span>&nbsp;10-10-2019</span>",
+      },
+      {
+        "name": "Harman International Pvt Ltd",
+        "duration": "<b>From:</b><span>&nbsp;17-10-2019</span> &nbsp; &nbsp; <b>To:</b><span>&nbsp;28-09-2021</span>",
+      },
+      {
+        "name": "Tata consultancy services",
+        "duration": "<b>From:</b><span>&nbsp;25-10-2021</span> &nbsp; &nbsp; <span>Till Date</span>",
+      }
+    ]
   }
 }
