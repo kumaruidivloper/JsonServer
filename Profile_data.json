@@ -11,8 +11,7 @@
 	}],
 	"themeMode": [{
 		"dark": "Change Dark Mode",
-		"light": "Change Light Mode",
-		"postId": 1
+		"light": "Change Light Mode"
 	}],
 	"aboutMe": {
 		"about": "about",
