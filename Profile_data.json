@@ -105,5 +105,6 @@
         "projName": "project 06",
       }, 
     ]
-  }
+  },
+  "copyRight": "<span> Copyright© {{currentYear}} &nbsp;</span>created by <span>mr. Kumar Shan</span> | all rights reserved"
 }
