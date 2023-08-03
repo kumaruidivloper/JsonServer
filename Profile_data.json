@@ -90,7 +90,7 @@
 		]
 	},
 	"portFolio": {
-		"title": "my <span>portfolio</span>",
+		"title": "portfolio",
 		"projList": [{
 				"imageUrl": "assets/img/img-1.jpg",
 				"projName": "project 01"
