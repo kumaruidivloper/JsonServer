@@ -34,4 +34,8 @@
               your experience. I have gained a lot of experience during this time and I can help bring out creativity in all kinds of environments as well.",
     "contectText": "contact me",
   },
+  "technology": {
+    "technology": ["angular", "react", "rxjs", "ngrx & ngxs", "git", "photoshop", "HTML", "CSS", "javascript", "typescript", "pyscript". "redux"],
+    "level": [90, 30, 75, 60, 75, 40, 95, 80, 75, 70, 25, 25],
+  },
 }
