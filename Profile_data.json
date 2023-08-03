@@ -44,39 +44,48 @@
 	"companyDeatils": {
 		"companies": [{
 				"name": "Dart Innovation & Technologies Pvt Ltd",
-				"duration": "<b>From:</b><span>&nbsp;25-05-2007</span> &nbsp; &nbsp; <b>To:</b><span>&nbsp;30-04-2010</span>"
+				"from": "25-05-2007",
+				"to": "30-04-2010"
 			},
 			{
 				"name": "Xentaqsys Technologies",
-				"duration": "<b>From:</b><span>&nbsp;11-05-2010</span> &nbsp; &nbsp; <b>To:</b><span>&nbsp;30-08-2010</span>"
+				"from": "11-05-2010",
+				"to": "30-08-2010>"
 			},
 			{
 				"name": "Schindlers Management Services Pvt Ltd",
-				"duration": "<b>From:</b><span>&nbsp;17-11-2010</span> &nbsp; &nbsp; <b>To:</b><span>&nbsp;07-03-2011</span>"
+				"from": "17-11-2010",
+				"to": "07-03-2011"
 			},
 			{
 				"name": "Cognizant Technology and Solution India Pvt Ltd",
-				"duration": "<b>From:</b><span>&nbsp;09-03-2011</span> &nbsp; &nbsp; <b>To:</b><span>&nbsp;21-07-2017</span>"
+				"from": "09-03-2011",
+				"to": "21-07-2017"
 			},
 			{
 				"name": "Volvo Group India Pvt Ltd",
-				"duration": "<b>From:</b><span>&nbsp;27-07-2017</span> &nbsp; &nbsp; <b>To:</b><span>&nbsp;30-11-2018</span>"
+				"from": "27-07-2017",
+				"to": "30-11-2018"
 			},
 			{
 				"name": "MindTree Ltd",
-				"duration": "<b>From:</b><span>&nbsp;06-12-2018</span> &nbsp; &nbsp; <b>To:</b><span>&nbsp;31-07-2019</span>"
+				"from": "06-12-2018",
+				"to": "31-07-2019"
 			},
 			{
 				"name": "Boeing India Services Pvt Ltd",
-				"duration": "<b>From:</b><span>&nbsp;13-08-2019</span> &nbsp; &nbsp; <b>To:</b><span>&nbsp;10-10-2019</span>"
+				"from": "13-08-2019",
+				"to": "10-10-2019"
 			},
 			{
 				"name": "Harman International Pvt Ltd",
-				"duration": "<b>From:</b><span>&nbsp;17-10-2019</span> &nbsp; &nbsp; <b>To:</b><span>&nbsp;28-09-2021</span>"
+				"from": "17-10-2019",
+				"to": "28-09-2021"
 			},
 			{
 				"name": "Tata consultancy services",
-				"duration": "<b>From:</b><span>&nbsp;25-10-2021</span> &nbsp; &nbsp; <span>Till Date</span>"
+				"from": "25-10-2021",
+				"to": "Till Date"
 			}
 		]
 	},
