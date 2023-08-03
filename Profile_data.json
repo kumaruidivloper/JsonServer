@@ -34,4 +34,7 @@
     "technology": ["angular", "react", "rxjs", "ngrx & ngxs", "git", "photoshop", "HTML", "CSS", "javascript", "typescript", "pyscript", "redux"],
     "level": [90, 30, 75, 60, 75, 40, 95, 80, 75, 70, 25, 25],
   },
+  "proud": {
+    "title": "I'm proud to have collaborated with some awesome  <span>companies</span>",
+  }
 }
