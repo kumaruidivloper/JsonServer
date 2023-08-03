@@ -15,7 +15,8 @@
 		"postId": 1
 	}],
 	"aboutMe": {
-		"title": "<span>about</span> me",
+		"about": "about",
+		"me": "me",
 		"experience": "15+",
 		"textYearTitle": "years of experience",
 		"clientFeedBack": "satisfied clients",
