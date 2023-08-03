@@ -76,5 +76,34 @@
         "duration": "<b>From:</b><span>&nbsp;25-10-2021</span> &nbsp; &nbsp; <span>Till Date</span>",
       }
     ]
+  },
+  "portFolio": {
+    "title": "my <span>portfolio</span>",
+    "projList": [
+      {
+        "imageUrl": "assets/img/img-1.jpg",
+        "projName": "project 01",
+      },
+      {
+        "imageUrl": "assets/img/img-2.jpg",
+        "projName": "project 02",
+      },
+      {
+        "imageUrl": "assets/img/img-3.jpg",
+        "projName": "project 03",
+      }, 
+      {
+        "imageUrl": "assets/img/img-4.jpg",
+        "projName": "project 04",
+      }, 
+      {
+        "imageUrl": "assets/img/img-5.jpg",
+        "projName": "project 05",
+      }, 
+      {
+        "imageUrl": "assets/img/img-6.jpg",
+        "projName": "project 06",
+      }, 
+    ]
   }
 }
