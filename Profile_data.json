@@ -1,19 +1,28 @@
 {
-  "posts": [
+  "intro": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "name": "Kumar Shan",
+      "title": "I Am A Front-End Developer",
+      "menuTitle": "front-end developer",
+      "profilePath": "assets/cv/Kumaravel_Shanmugam_Web_Developer.pdf",
+      "gitUrl": "https://github.com/kumaruidivloper",
+      "linkedIn": "https://www.linkedin.com/in/kumar-shan-85933624/",
     }
   ],
-  "comments": [
+  "themeMode": [
     {
-      "id": 1,
-      "body": "some comment",
+      "dark": "Change Dark Mode",
+      "light": "Change Light Mode",
       "postId": 1
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "aboutMe": {
+    "title": "<span>about</span> me",
+    "experience": "15+",
+    "textYearTitle": "years of experience",
+    "clientFeedBack": "satisfied clients",
+    "workingHrs": "35500+",
+    "workingfHrText": "working hours",
+    "appCounts": "33+"
   }
 }
