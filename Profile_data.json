@@ -44,47 +44,47 @@
 	"companyDeatils": {
 		"companies": [{
 				"name": "Dart Innovation & Technologies Pvt Ltd",
-				"from": "25-05-2007",
-				"to": "30-04-2010"
+				"from": "25/05/2007",
+				"to": "30/04/2010"
 			},
 			{
 				"name": "Xentaqsys Technologies",
-				"from": "11-05-2010",
-				"to": "30-08-2010"
+				"from": "11/05/2010",
+				"to": "30/08/2010"
 			},
 			{
 				"name": "Schindlers Management Services Pvt Ltd",
-				"from": "17-11-2010",
-				"to": "07-03-2011"
+				"from": "17/11/2010",
+				"to": "07/03/2011"
 			},
 			{
 				"name": "Cognizant Technology and Solution India Pvt Ltd",
-				"from": "09-03-2011",
-				"to": "21-07-2017"
+				"from": "09/03/2011",
+				"to": "21/07/2017"
 			},
 			{
 				"name": "Volvo Group India Pvt Ltd",
-				"from": "27-07-2017",
-				"to": "30-11-2018"
+				"from": "27/07/2017",
+				"to": "30/11/2018"
 			},
 			{
 				"name": "MindTree Ltd",
-				"from": "06-12-2018",
-				"to": "31-07-2019"
+				"from": "06/12/2018",
+				"to": "31/07/2019"
 			},
 			{
 				"name": "Boeing India Services Pvt Ltd",
-				"from": "13-08-2019",
-				"to": "10-10-2019"
+				"from": "13/08/2019",
+				"to": "10/10/2019"
 			},
 			{
 				"name": "Harman International Pvt Ltd",
-				"from": "17-10-2019",
-				"to": "28-09-2021"
+				"from": "17/10/2019",
+				"to": "28/09/2021"
 			},
 			{
 				"name": "Tata consultancy services",
-				"from": "25-10-2021",
+				"from": "25/10/2021",
 				"to": "Till Date"
 			}
 		]
