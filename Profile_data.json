@@ -93,27 +93,43 @@
 		"title": "portfolio",
 		"projList": [{
 				"imageUrl": "assets/img/img-1.jpg",
-				"projName": "project 01"
+				"projName": "Java Script"
 			},
 			{
 				"imageUrl": "assets/img/img-2.jpg",
-				"projName": "project 02"
+				"projName": "Type Script"
 			},
 			{
 				"imageUrl": "assets/img/img-3.jpg",
-				"projName": "project 03"
+				"projName": "Angular"
 			},
 			{
 				"imageUrl": "assets/img/img-4.jpg",
-				"projName": "project 04"
+				"projName": "Redux"
 			},
 			{
 				"imageUrl": "assets/img/img-5.jpg",
-				"projName": "project 05"
+				"projName": "Rxjs"
 			},
 			{
 				"imageUrl": "assets/img/img-6.jpg",
-				"projName": "project 06"
+				"projName": "Node JS"
+			},
+			{
+				"imageUrl": "assets/img/img-7.jpg",
+				"projName": "HTML 5"
+			},
+			{
+				"imageUrl": "assets/img/img-8.jpg",
+				"projName": "CSS 3"
+			},
+			{
+				"imageUrl": "assets/img/img-9.jpg",
+				"projName": "Next JS"
+			},
+			{
+				"imageUrl": "assets/img/img-10.jpg",
+				"projName": "React JS"
 			}
 		]
 	}
